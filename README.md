@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Bachelor's degree student in Economics, Ramkhamhaeng University.
 ----------------------------------------------------------------
 
-I am currently studying for a bachelor's degree. I also work while studying. I've been learning Python for 6 months and started learning SQL for 1 month.
+I am currently studying for a bachelor's degree. I also work while studying. I've been learning Python for 8 months and started learning SQL for 2 month.
 I want to be a Full-stack Development and Data Science person.
 
 * 🌍  I'm based in Samut Prakan, Thailand
 * ✉️  You can contact me at [frongbook@hotmail.com](mailto:frongbook@hotmail.com)
-* 🧠  I'm learning DATA MANAGEMENT,PHP,HTML,CSS
+* 🧠  I'm learning DATA MANAGEMENT,C#,HTML,CSS,JAVA SCRIPT.
 
 <a href="https://www.github.com/Watcharapol-Frong" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Watcharapol-Frong?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
