@@ -5,6 +5,7 @@ Bachelor's degree student in Economics, Ramkhamhaeng University.
 ----------------------------------------------------------------
 
 I am currently studying for a bachelor's degree. I also work while studying. I've been learning Python for 6 months and started learning SQL for 1 month.
+I want to be a Full-stack Development and Data Science person.
 
 * 🌍  I'm based in Samut Prakan, Thailand
 * ✉️  You can contact me at [frongbook@hotmail.com](mailto:frongbook@hotmail.com)
