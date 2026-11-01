@@ -2,7 +2,7 @@
 
 **Watcharapol Charoensuk** · Data & AI practitioner based in Bangkok, Thailand
 
-I work across data analysis, AI/ML, and design — building things that turn messy data into decisions. Currently at **CP Axtra (Makro Pro)**.
+I work across data analysis, AI/ML, and design — building things that turn messy data into decisions.
 
 ---
 
@@ -21,14 +21,14 @@ I work across data analysis, AI/ML, and design — building things that turn mes
 
 ---
 
-### 💼 Experience
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Watcharapol-Frong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watcharapol-Frong&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+</p>
 
-| Company | Period |
-|---|---|
-| CP Axtra (Makro Pro) | 2025 – Present |
-| Com7 Public Company Limited | 2023 – 2025 |
-| ACTIVE NATION CO., LTD | 2021 – 2023 |
-| INDEX LIVING MALL | 2019 – 2021 |
+<p>
+  <img src="https://streak-stats.demolab.com?user=Watcharapol-Frong&hide_border=true" height="150" alt="Contribution streak" />
+</p>
 
 ---
 
@@ -42,10 +42,15 @@ I work across data analysis, AI/ML, and design — building things that turn mes
 
 ---
 
-### 🎓 Education
+### 🎓 Programs & Activities
 
-- Bachelor of Economics — Ramkhamhaeng University
-- Bachelor of Laws — Ramkhamhaeng University *(in progress)*
+**Data Science Bootcamp** — DataRockie
+Completed hands-on projects in Python, SQL, R, and Data visualization.
+*30K+ students as of Aug 2022*
+
+**AI Development Scholarship Program** — 42Bangkok & PMU-B
+Currently enrolled in an intensive 4-month scholarship program. Developing hands-on projects in AI, Algorithms, and Data Structures using Python.
+*Oct 2025 – Jan 2026*
 
 ---
 
