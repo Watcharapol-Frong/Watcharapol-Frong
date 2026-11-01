@@ -22,11 +22,6 @@ I work across data analysis, AI/ML, and design - building things that turn messy
 ---
 
 <p>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Watcharapol-Frong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Watcharapol-Frong&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</p>
-
-<p>
   <img src="https://streak-stats.demolab.com?user=Watcharapol-Frong&hide_border=true" height="150" alt="Contribution streak" />
 </p>
 
