@@ -22,23 +22,19 @@ I work across data analysis, AI/ML, and design - building things that turn messy
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Watcharapol-Frong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Watcharapol-Frong&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Watcharapol-Frong&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Watcharapol-Frong&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Watcharapol-Frong&hide_border=true" height="150" alt="Contribution streak" />
 </p>
 
----
-
-### 📌 Selected Projects
-
-- **[customer-segmentation-mini-ml-model](https://github.com/Watcharapol-Frong/customer-segmentation-mini-ml-model)** — RFM analysis and decision tree modeling for customer segmentation (R)
-- **[Customer-Segmentation-CRM-PowerBI](https://github.com/Watcharapol-Frong/Customer-Segmentation-CRM-PowerBI)** — CRM segmentation dashboard and analysis
-- **[frong.me](https://github.com/Watcharapol-Frong/frong.me)** — Personal site for notes and projects (Astro · React · Cloudflare)
-- **[Stock-Line-Bot](https://github.com/Watcharapol-Frong/Stock-Line-Bot)** — LINE bot for stock updates (JavaScript)
-- **[Pao-Ying-Chub-R-programing](https://github.com/Watcharapol-Frong/Pao-Ying-Chub-R-programing)** — Rock-paper-scissors game in R
+<p>
+  <img src="https://img.shields.io/github/followers/Watcharapol-Frong?style=flat-square&label=Followers&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Watcharapol-Frong?style=flat-square&label=Stars&affiliations=OWNER&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/Watcharapol-Frong/Watcharapol-Frong?style=flat-square&label=Last%20commit" alt="Last commit" />
+</p>
 
 ---
 
