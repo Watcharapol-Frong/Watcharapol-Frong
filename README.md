@@ -2,7 +2,7 @@
 
 **Watcharapol Charoensuk** · Data & AI practitioner based in Bangkok, Thailand
 
-I work across data analysis, AI/ML, and design — building things that turn messy data into decisions.
+I work across data analysis, AI/ML, and design - building things that turn messy data into decisions.
 
 ---
 
